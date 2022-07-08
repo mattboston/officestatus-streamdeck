@@ -1,0 +1,14 @@
+{
+  "Description": "Office Status", 
+  "Name": "Office Status", 
+  "tv.shields.officestatus.action": {
+    "Name": "Office Status", 
+    "Tooltip": "This is the only action in this plugin"
+  },
+  "Localization": {
+    "More info": "More info",
+    "Message": "Message",
+    "Click Me": "Click Me",
+    "Button": "Button"
+  }
+}

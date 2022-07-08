@@ -1,0 +1,43 @@
+{
+  "Actions": [
+    {
+      "Icon": "action/images/actionimage", 
+      "Name": "Office Status", 
+      "States": [
+        {
+          "Image": "action/images/officestatus_black",
+          "Name": "Off"
+        },
+        {
+          "Image": "action/images/officestatus_red",
+          "Name": "On"
+        }
+      ], 
+      "Tooltip": "This is an example tooltip", 
+      "UUID": "tv.shields.officestatus.action"
+    }
+  ], 
+  "SDKVersion": 2,
+  "Author": "Matt Shields", 
+  "CodePath": "index.html", 
+  "PropertyInspectorPath": "propertyinspector/index.html", 
+  "Description": "This works with office status", 
+  "Name": "Office Status", 
+  "Icon": "action/images/action", 
+  "URL": "https://github.com/mattboston/officestatus-streamdeck", 
+  "Version": "1.0.0",
+  "OS": [
+    {
+        "Platform": "mac", 
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows", 
+        "MinimumVersion" : "10"
+    }
+  ],
+  "Software": 
+    {
+        "MinimumVersion" : "4.1"
+  }
+}
